@@ -1,0 +1,20 @@
+{
+  "RU": {
+    "settingsText": "Настройки",
+    "langText": "Язык:",
+    "graphText": "Графика:",
+    "soundSettingsText": "Настройки звука",
+    "musicText": "Музыка",
+    "voiceText": "Голос",
+    "surroundText": "Окружение"
+  },
+  "EN": {
+    "settingsText": "Settings",
+    "langText": "Language:",
+    "graphText": "Graphic quality:",
+    "soundSettingsText": "Sound settings",
+    "musicText": "Music",
+    "voiceText": "Voice",
+    "surroundText": "Surround"
+  }
+}

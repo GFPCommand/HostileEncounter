@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a47f546fc70ec8428172694e78e4288
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255121
+  packageName: Top Down Mobile Controller 3D
+  packageVersion: 1.0
+  assetPath: Assets/Conquerror/TopDownController/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs
+  uploadId: 587215

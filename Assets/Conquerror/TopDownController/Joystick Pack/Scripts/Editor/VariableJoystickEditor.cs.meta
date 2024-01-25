@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 58b5a2db95af76c4c9d4116a09ec3697
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255121
+  packageName: Top Down Mobile Controller 3D
+  packageVersion: 1.0
+  assetPath: Assets/Conquerror/TopDownController/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs
+  uploadId: 587215
